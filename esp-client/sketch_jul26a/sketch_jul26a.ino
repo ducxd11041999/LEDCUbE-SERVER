@@ -80,7 +80,7 @@ void loop()
           Serial.write(dataMode+48);
           Rfull = {""};
        }
-     //   Serial.print(dataMode);
+
         
     } 
     //Kết nối lại!
